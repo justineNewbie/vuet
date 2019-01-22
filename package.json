@@ -25,6 +25,8 @@
     },
     "dependencies": {
         "vue-router": "^3.0.2",
+        "vue-sidebar-menu": "^3.3.0",
+        "vuesax": "^3.8.16",
         "vuex": "^3.1.0"
     }
 }

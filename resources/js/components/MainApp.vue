@@ -3,7 +3,6 @@
         <div>
             <router-link to="/ailment" class="btn btn-info">Goto Ailment</router-link>
             <router-view></router-view>
-            asdasdasd
         </div>
     </div>
 </template>
